@@ -1,0 +1,17 @@
+---
+title: "Hello World"
+author: "S Chukanova"
+date: "04 08 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello World
+
+This is an R Markdown document. 
+
+
+**for coursera DS Toolbox online course**
